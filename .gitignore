@@ -214,21 +214,3 @@ FakesAssemblies/
 !BuildTools/*.*
 !Shared Assemblies/*.*
 !Shared Silverlight Assemblies/*.*
-
-
-HELP.md
-.gradle
-!.mvn/wrapper/maven-wrapper.jar
-target/
-!gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
